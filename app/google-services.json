@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1040698974246",
+    "project_id": "contanduriapp",
+    "storage_bucket": "contanduriapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040698974246:android:25a36b01cdbd31aa9186e7",
+        "android_client_info": {
+          "package_name": "com.benny.contaduriapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040698974246-g1htcqkcud3mt8pc1n2c9dmi0m3rp7li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3z22nuciojdlH67yWC7eVXqLxn4Q3Ex4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040698974246-g1htcqkcud3mt8pc1n2c9dmi0m3rp7li.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1040698974246-54v834hib720de4ck0b0rvpedfjv1sj1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.contaduriApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040698974246:android:ca2d917a5dbe093b9186e7",
+        "android_client_info": {
+          "package_name": "com.example.contaduri_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040698974246-g1htcqkcud3mt8pc1n2c9dmi0m3rp7li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3z22nuciojdlH67yWC7eVXqLxn4Q3Ex4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040698974246-g1htcqkcud3mt8pc1n2c9dmi0m3rp7li.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1040698974246-54v834hib720de4ck0b0rvpedfjv1sj1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.contaduriApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
